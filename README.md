@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/ArielGad/tdd_rest_api_django.svg?branch=master)](https://travis-ci.com/ArielGad/tdd_rest_api_django)
+
 # tdd_rest_api_django
 
 
