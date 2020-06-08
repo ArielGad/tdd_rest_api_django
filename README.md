@@ -11,3 +11,4 @@ docker-compose run app sh -c "django-admin.py startproject app ."
 
 ##NOTE:
  - Override UserManager & User creation
+ - Usage of Token and authentication & permissions
